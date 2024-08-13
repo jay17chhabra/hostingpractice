@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hostingpractice/static/css/main.37d95512.css",
-    "main.js": "/hostingpractice/static/js/main.740c0a69.js",
+    "main.js": "/hostingpractice/static/js/main.c17809dd.js",
     "static/media/nike_jordan_1_travis_mocha_high.png": "/hostingpractice/static/media/nike_jordan_1_travis_mocha_high.749b9361f381e3fcee6c.png",
     "static/media/adidas_yeezy_700_mauve.png": "/hostingpractice/static/media/adidas_yeezy_700_mauve.c1e87d7245591a095e3b.png",
     "static/media/aboutimage.png": "/hostingpractice/static/media/aboutimage.3025da6aa879412d442e.png",
@@ -12,10 +12,10 @@
     "static/media/yeezy.svg": "/hostingpractice/static/media/yeezy.4ba1952aa9efca25e40f29f2df7a3b04.svg",
     "index.html": "/hostingpractice/index.html",
     "main.37d95512.css.map": "/hostingpractice/static/css/main.37d95512.css.map",
-    "main.740c0a69.js.map": "/hostingpractice/static/js/main.740c0a69.js.map"
+    "main.c17809dd.js.map": "/hostingpractice/static/js/main.c17809dd.js.map"
   },
   "entrypoints": [
     "static/css/main.37d95512.css",
-    "static/js/main.740c0a69.js"
+    "static/js/main.c17809dd.js"
   ]
 }
