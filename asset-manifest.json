@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hostingpractice/static/css/main.37d95512.css",
+    "main.js": "/hostingpractice/static/js/main.740c0a69.js",
+    "static/media/nike_jordan_1_travis_mocha_high.png": "/hostingpractice/static/media/nike_jordan_1_travis_mocha_high.749b9361f381e3fcee6c.png",
+    "static/media/adidas_yeezy_700_mauve.png": "/hostingpractice/static/media/adidas_yeezy_700_mauve.c1e87d7245591a095e3b.png",
+    "static/media/aboutimage.png": "/hostingpractice/static/media/aboutimage.3025da6aa879412d442e.png",
+    "static/media/adidas1.png": "/hostingpractice/static/media/adidas1.7ddec0f2068e68e0fd22.png",
+    "static/media/nike1.png": "/hostingpractice/static/media/nike1.690bd851f34a8b45d913.png",
+    "static/media/newbal1.png": "/hostingpractice/static/media/newbal1.dce9ccf4df6bbd3cabe5.png",
+    "static/media/undera1.png": "/hostingpractice/static/media/undera1.d2d7ae2fb5ceb54d9cab.png",
+    "static/media/yeezy.svg": "/hostingpractice/static/media/yeezy.4ba1952aa9efca25e40f29f2df7a3b04.svg",
+    "index.html": "/hostingpractice/index.html",
+    "main.37d95512.css.map": "/hostingpractice/static/css/main.37d95512.css.map",
+    "main.740c0a69.js.map": "/hostingpractice/static/js/main.740c0a69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37d95512.css",
+    "static/js/main.740c0a69.js"
+  ]
+}
